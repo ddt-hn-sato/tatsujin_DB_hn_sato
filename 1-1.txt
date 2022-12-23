@@ -1,0 +1,14 @@
+演習1-1
+
+1 使用しているDBMSのバージョン、およびそのDBMSの最新バージョン
+	使用：mysql  Ver 14.14 Distrib 5.6.51, for Win64 (x86_64)
+	最新：MySQL 8.0.31 (2022-10-11, General Availability)
+
+2 エディション
+	MySQL Standard Edition
+	MySQL Enterprise Edition
+	MySQL Cluster Carrier Grade Edition
+
+3 マニュアルの所在
+	MySQL 5.6 リファレンスマニュアル
+	https://dev.mysql.com/doc/refman/5.6/ja/
